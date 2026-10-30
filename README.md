@@ -5,7 +5,6 @@ React + TypeScript frontend for **SnapLedger**, an AI-powered document scanner f
  **Backend API (FastAPI):** [DikshyaPaudel/snapledger](https://github.com/DikshyaPaudel/snapledger)
 
 <!-- Add a screenshot or GIF of the full flow here -->
-
 ## How it works
 
 1. Choose the document type: Receipt, Sales invoice, or Purchase invoice.
